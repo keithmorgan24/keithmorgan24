@@ -1,6 +1,6 @@
 # Hi, I'm Keith Morgan! 👋 🇰🇪
 
-### 🚀 Full Stack Web & Mobile Developer | 🛡️ Cyber Security Analyst
+### 🚀 Full Stack Web & Mobile Developer 
 
 I am a passionate developer based in Kenya, dedicated to building secure, high-quality digital solutions for the local market. With experience in both web and mobile ecosystems, I take projects from a simple idea to a fully functional, secure reality.
 
