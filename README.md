@@ -19,9 +19,8 @@ I am a passionate developer based in Kenya, dedicated to building secure, high-q
 *   **Secure Architectures:** Implementing production-mode security rules to ensure user data stays private and safe.
 
 ### 🛠️ My Technical Toolbox
-*   **Mobile:** Android Studio, Kotlin/Java, Firebase (Firestore & Storage).
+*   **Mobile:** Android Studio, Kotlin/Java, Firebase (Firestore & Storage), Supabase, Cloudinary
 *   **Web:** HTML, CSS, Python, Django (Full Stack Development).
-*   **Security:** Risk Analysis, Secure Coding, and Administrative Interface Design.
 
 ### 🌟 Featured Project
 > **Jomos Baker Website** - A complete full stack web solution built to help a local business thrive online.
