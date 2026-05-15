@@ -8,7 +8,6 @@ I am a passionate developer based in Kenya, dedicated to building secure, high-q
 
 ### 🏆 Professional Achievements
 ![Full Stack Wizard](https://img.shields.io/badge/Full%20Stack-Wizard-purple?style=for-the-badge&logo=visual-studio-code)
-![Security Expert](https://img.shields.io/badge/Security-Analyst-red?style=for-the-badge&logo=fortinet)
 ![Android Pro](https://img.shields.io/badge/Android-Developer-green?style=for-the-badge&logo=android)
 ![Kenya Proud](https://img.shields.io/badge/Made%20In-Kenya-black?style=for-the-badge)
 
