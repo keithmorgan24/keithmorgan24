@@ -29,4 +29,4 @@ I am a passionate developer based in Kenya, dedicated to building secure, high-q
 ### 📊 GitHub Power Stats
 ![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=keithmorgan24&show_icons=true&theme=dark)
 
-📫 **How to reach me:** 2keithmorgan4@gmail.com
+📫 **How to reach me:** keithmodim@gmail.com
